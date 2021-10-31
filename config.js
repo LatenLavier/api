@@ -12,7 +12,7 @@ module.exports = {
      * Informations à propos de l'API
      */
     apipassword: 'tbzyOL1aevCuxmrTfEctI9AiTcjRZ6sG',
-    serverurl: 'http://34d7-200-68-170-18.ngrok.io',
+    serverurl: 'https://twiliapi.herokuapp.com',
 
     /**
      * Informations à propos du webhook discord
