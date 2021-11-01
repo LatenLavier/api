@@ -4,8 +4,8 @@ module.exports = {
     /**
      * Informations à propos du compte Twilio
      */
-    accountSid: 'ACceed3527224153cfaf910df04aa0bf9d',
-    authToken: '4a5ecbb5bdfa7f33fa91e67da6c80fc9',
+    accountSid: 'AC886a97630f9ae00e3833b64e0bdb0501',
+    authToken: 'b7d7b75b9ba6ff8543d9058575e1b1e6',
     callerid: '+19139544687',
 
     /**
